@@ -447,7 +447,7 @@ template {
   text-transform: capitalize; }
 
 #top {
-  background: #C5F328; }
+  background: #4B61EE; }
 
 .top__item {
   width: 100%;
@@ -650,7 +650,7 @@ template {
   #header:before {
     content: "";
     position: absolute;
-    background: rgba(197, 243, 40, 0.7);
+    background: rgba(75, 97, 238, 0.7);
     width: 50%;
     height: 100%;
     left: 0;
